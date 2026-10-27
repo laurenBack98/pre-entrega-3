@@ -1,0 +1,9 @@
+langchain-core
+langchain-ollama
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+pydantic
+python-dotenv
+sentence-transformers
+tiktoken
